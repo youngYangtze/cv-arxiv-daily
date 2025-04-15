@@ -1,4 +1,4 @@
-## Updated on 2025.04.14
+## Updated on 2025.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment**|Sebastián Barbas Laina et.al.|[2504.08603](http://arxiv.org/abs/2504.08603)|null|
+|**2025-04-11**|**PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**|Xiong Li et.al.|[2504.08280](http://arxiv.org/abs/2504.08280)|null|
+|**2025-04-11**|**II-NVM: Enhancing Map Accuracy and Consistency with Normal Vector-Assisted Mapping**|Chengwei Zhao et.al.|[2504.08204](http://arxiv.org/abs/2504.08204)|null|
 |**2025-04-10**|**UWB Anchor Based Localization of a Planetary Rover**|Andreas Nüchter et.al.|[2504.07658](http://arxiv.org/abs/2504.07658)|null|
 |**2025-04-10**|**Event Signal Filtering via Probability Flux Estimation**|Jinze Chen et.al.|[2504.07503](http://arxiv.org/abs/2504.07503)|null|
 |**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844](http://arxiv.org/abs/2504.04844)|**[link](https://github.com/zhicongsun/d4dgs-slam)**|
@@ -906,12 +909,13 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252](http://arxiv.org/abs/2504.08252)|null|
 |**2025-04-08**|**Implementation of a Zed 2i Stereo Camera for High-Frequency Shoreline Change and Coastal Elevation Monitoring**|José A. Pilartes-Congo et.al.|[2504.06464](http://arxiv.org/abs/2504.06464)|null|
 |**2025-04-07**|**Decoding the variability in the star-formation histories of z ~ 0.8 galaxies**|Jenny T. Wan et.al.|[2504.05281](http://arxiv.org/abs/2504.05281)|null|
 |**2025-04-05**|**3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS**|Zhisheng Huang et.al.|[2504.04294](http://arxiv.org/abs/2504.04294)|null|
@@ -1286,12 +1290,15 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## Visual Localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**|Joshua Fixelle et.al.|[2504.08710](http://arxiv.org/abs/2504.08710)|null|
+|**2025-04-11**|**FocalLens: Instruction Tuning Enables Zero-Shot Conditional Image Representations**|Cheng-Yu Hsieh et.al.|[2504.08368](http://arxiv.org/abs/2504.08368)|null|
+|**2025-04-11**|**PNE-SGAN: Probabilistic NDT-Enhanced Semantic Graph Attention Network for LiDAR Loop Closure Detection**|Xiong Li et.al.|[2504.08280](http://arxiv.org/abs/2504.08280)|null|
 |**2025-04-10**|**Multi-modal Reference Learning for Fine-grained Text-to-Image Retrieval**|Zehong Ma et.al.|[2504.07718](http://arxiv.org/abs/2504.07718)|null|
 |**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231](http://arxiv.org/abs/2504.07231)|null|
 |**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
@@ -2410,18 +2417,19 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## Keypoint Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252](http://arxiv.org/abs/2504.08252)|null|
 |**2025-03-31**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**|Yannick Burkhardt et.al.|[2504.00139](http://arxiv.org/abs/2504.00139)|null|
 |**2025-03-29**|**Deep Visual Servoing of an Aerial Robot Using Keypoint Feature Extraction**|Shayan Sepahvand et.al.|[2503.23171](http://arxiv.org/abs/2503.23171)|null|
 |**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278](http://arxiv.org/abs/2503.19278)|null|
 |**2025-03-05**|**Periodontal Bone Loss Analysis via Keypoint Detection With Heuristic Post-Processing**|Ryan Banks et.al.|[2503.13477](http://arxiv.org/abs/2503.13477)|null|
 |**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541](http://arxiv.org/abs/2503.12541)|null|
-|**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
+|**2025-04-12**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|**[link](https://github.com/parskatt/dad)**|
 |**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472](http://arxiv.org/abs/2503.05472)|null|
@@ -2706,13 +2714,14 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## Image Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-09**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|null|
+|**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
+|**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|null|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|**[link](https://github.com/stilcrad/denseaffine)**|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
@@ -3027,7 +3036,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 ## NeRF
 
@@ -4597,7 +4606,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
